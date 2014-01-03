@@ -19,8 +19,6 @@
     [super viewDidLoad];
     NSLog(@"test123");
     NSLog(@"test1234");
-    
-    NSLog(@"this is edited in navas macbook");
 	// Do any additional setup after loading the view, typically from a nib.
 }
 
