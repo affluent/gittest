@@ -26,7 +26,7 @@
 
 -(void) getResponse
 {
-    
+    NSLog(@"the response is...");
 }
 
 - (void)didReceiveMemoryWarning
