@@ -21,6 +21,7 @@
     NSLog(@"test1234");
     NSLog(@"altered in Arief's machine");
     NSLog(@"Altered in navas Machine");
+    NSLog(@"middel commit");
     NSLog(@"this is another test");
     NSLog(@"this is very different");
     NSLog(@"this is an another test");
