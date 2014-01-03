@@ -20,6 +20,7 @@
     NSLog(@"test123");
     NSLog(@"test1234");
     NSLog(@"altered in Arief's machine");
+    NSLog(@"Altered in navas Machine");
 	// Do any additional setup after loading the view, typically from a nib.
 }
 
