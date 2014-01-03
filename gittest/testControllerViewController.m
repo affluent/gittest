@@ -24,6 +24,7 @@
     NSLog(@"this is another test");
     NSLog(@"this is very different");
     NSLog(@"this is an another test");
+    
 	// Do any additional setup after loading the view, typically from a nib.
 }
 
@@ -31,6 +32,7 @@
 {
     NSLog(@"the response is...");
     NSLog(@"the response is...");
+    NSLog(@"last test");
 }
 
 - (void)didReceiveMemoryWarning
