@@ -19,6 +19,7 @@
     [super viewDidLoad];
     NSLog(@"test123");
     NSLog(@"test1234");
+    NSLog(@"altered in Arief's machine");
 	// Do any additional setup after loading the view, typically from a nib.
 }
 
